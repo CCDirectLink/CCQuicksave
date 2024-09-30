@@ -2,5 +2,9 @@
     "id": "quicksave",
     "title": "Quicksave",
     "version": "1.0.0",
-    "plugin": "plugin.js"
+    "plugin": "plugin.js",
+    "description": "Allows you to quicksave and quickload outside of combat.",
+    "repository": "https://github.com/CCDirectLink/CCQuicksave",
+    "tags": ["QoL", "cheats"],
+    "authors": "2767mr"
 }
