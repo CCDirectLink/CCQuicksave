@@ -1,0 +1,6 @@
+{
+    "id": "quicksave",
+    "title": "Quicksave",
+    "version": "1.0.0",
+    "plugin": "plugin.js"
+}
